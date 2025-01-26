@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 7ae37b905fb155748ade898f56815e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -541346458726545300
+    second: BARCO_-_Sheet_-_animado_0
+  - first:
+      213: 4975202861043599366
+    second: BARCO_-_Sheet_-_animado_1
+  - first:
+      213: 6956047244746260821
+    second: BARCO_-_Sheet_-_animado_2
+  - first:
+      213: 5400852824117357383
+    second: BARCO_-_Sheet_-_animado_3
+  - first:
+      213: 5783656485629541213
+    second: BARCO_-_Sheet_-_animado_4
+  - first:
+      213: 3944039965114322948
+    second: BARCO_-_Sheet_-_animado_5
+  - first:
+      213: 6323621693703637874
+    second: BARCO_-_Sheet_-_animado_6
+  - first:
+      213: -5463119758632821743
+    second: BARCO_-_Sheet_-_animado_7
+  - first:
+      213: 7951639353646623018
+    second: BARCO_-_Sheet_-_animado_8
+  - first:
+      213: -1968063021469648595
+    second: BARCO_-_Sheet_-_animado_9
+  - first:
+      213: -848998000239247776
+    second: BARCO_-_Sheet_-_animado_10
+  - first:
+      213: -6155396221296724021
+    second: BARCO_-_Sheet_-_animado_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 14
+        width: 213
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6840339340cc78f0800000000000000
+      internalID: -541346458726545300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_1
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 14
+        width: 213
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608c20274a87b0540800000000000000
+      internalID: 4975202861043599366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 13
+        width: 214
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5518fe74d18d88060800000000000000
+      internalID: 6956047244746260821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 13
+        width: 214
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b2ea1570fa3fa40800000000000000
+      internalID: 5400852824117357383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_4
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 17
+        width: 215
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b35d83eeca34050800000000000000
+      internalID: 5783656485629541213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_5
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 17
+        width: 215
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400559ca37b0cb630800000000000000
+      internalID: 3944039965114322948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_6
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 14
+        width: 215
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bc82b2d6402c750800000000000000
+      internalID: 6323621693703637874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_7
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 14
+        width: 215
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cd54d36891f24b0800000000000000
+      internalID: -5463119758632821743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_8
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 13
+        width: 214
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29af10dcd5e95e60800000000000000
+      internalID: 7951639353646623018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_9
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 13
+        width: 214
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2938b5fb1900b4e0800000000000000
+      internalID: -1968063021469648595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_10
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 13
+        width: 213
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef8b421d0c734f0800000000000000
+      internalID: -848998000239247776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BARCO_-_Sheet_-_animado_11
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 13
+        width: 213
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7b3d9dfb3a39aa0800000000000000
+      internalID: -6155396221296724021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BARCO_-_Sheet_-_animado_0: -541346458726545300
+      BARCO_-_Sheet_-_animado_1: 4975202861043599366
+      BARCO_-_Sheet_-_animado_10: -848998000239247776
+      BARCO_-_Sheet_-_animado_11: -6155396221296724021
+      BARCO_-_Sheet_-_animado_2: 6956047244746260821
+      BARCO_-_Sheet_-_animado_3: 5400852824117357383
+      BARCO_-_Sheet_-_animado_4: 5783656485629541213
+      BARCO_-_Sheet_-_animado_5: 3944039965114322948
+      BARCO_-_Sheet_-_animado_6: 6323621693703637874
+      BARCO_-_Sheet_-_animado_7: -5463119758632821743
+      BARCO_-_Sheet_-_animado_8: 7951639353646623018
+      BARCO_-_Sheet_-_animado_9: -1968063021469648595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
